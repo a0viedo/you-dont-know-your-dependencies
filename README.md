@@ -6,6 +6,7 @@ _You Don't Know Your Dependencies_ is a talk I've prepared to understand how dep
 ## Resources
 
 - [Lockfiles should be committed on all projects](https://yarnpkg.com/blog/2016/11/24/lockfiles-for-all/)
+- [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs)
 - [What if we could verify npm packages?](https://hackernoon.com/what-if-we-could-verify-npm-packages-c2a319cff758)
 - [npm package permissions — an idea](https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b)
 - [npm-package-locks -An explanation of npm lockfiles](https://docs.npmjs.com/files/package-locks)
@@ -18,3 +19,4 @@ _You Don't Know Your Dependencies_ is a talk I've prepared to understand how dep
 - [A better `npm publish`](https://github.com/sindresorhus/np)
 - [A lightweight private npm proxy registry
 ](https://verdaccio.org)
+- [Do you really know how a lockfile works for yarn and npm packages?](https://snyk.io/blog/making-sense-of-package-lock-files-in-the-npm-ecosystem/)
